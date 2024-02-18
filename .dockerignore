@@ -1,0 +1,7 @@
+# flyctl launch added from .gitignore
+**/pocketbase
+
+**/pb_data
+
+**/.DS_Store
+fly.toml
